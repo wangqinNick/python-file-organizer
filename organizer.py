@@ -25,5 +25,5 @@ def organize_files(directory):
                     os.path.join(directory, file_types[file_extension], filename))
 
 # Test the function
-organize_files('/Users/qinwang/downloads/')
+organize_files('/Users/qinwang/desktop/')
 print("Heo")
